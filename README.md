@@ -1,5 +1,9 @@
 # Weight-Converter-App
-This app Basically converts the entered unit into Pounds,omzes
+This app Basically converts the entered pounds unit into Grams,Kilograms and ounces.<br>
+The JavaScript plays the main working behind the scene. With the help of querryselector the number in input feild is selected and then
+makes three of Gram(),Kilogram() and ounces().
+The input pounds then passed into these methods and code in each funtion converts the pounds input to the grams,kilograms or ounces.
+
 
 
 # Interference <br>
@@ -9,6 +13,7 @@ This app Basically converts the entered unit into Pounds,omzes
 # Languages <br>
   HTML <br>
   CSS   <br>
+  Java Script <br>
   
 # Tools <br>
   Visual Studio Code <br>
